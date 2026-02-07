@@ -4,4 +4,4 @@
 </div>
 
 
-![](https://media.licdn.com/dms/image/v2/D4D16AQHnXacMaW2I7A/profile-displaybackgroundimage-shrink_350_1400/B4DZf1raVXGQAY-/0/1752173489127?e=1771459200&v=beta&t=Apbeb-1GVT33fi7-GDr4mkKcouWPgq5-ZNHgtT7de5s)
+![]
