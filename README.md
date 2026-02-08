@@ -9,4 +9,6 @@
   <br/>
 </p>
 
+<h3 align="center"><image src="image/Developer.gif" alt="developer gif" width="40px" align="center"/>Software Developer and Problem Solving</h3>
+<h4 align="center"><image src="image/icons8-think-100.png" alt="icon" width="27px" align="center"/> Learn, Progress and Better connection <image src="image/icons8-code-100.png" alt="icon" width="27px" align="center"/></h4>
 
