@@ -21,3 +21,16 @@
 - 📫   How to reach me **shakilahammed@gmail.com**
 - <image alt="gif" src="image/paper.gif" width="28px" align="center"/> Ask me about **c/cpp/python/django/html/css**
 - <image alt="gif" src="image/cat-coder.gif" width="28px" align="center"/> Fun fact **I love coding**
+
+
+
+
+
+
+
+
+<div align = "center">
+ <br>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=900&color=ACEBF7&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting;I'm+watting+for+you+again;Have+a+good+day!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</div>
+<image wigth="100%" src="https://capsule-render.vercel.app/api?type=waving&height=67&color=gradient&section=footer&fontAlignY=76&animation=twinkling&fontSize=30&descAlign=70"/>
