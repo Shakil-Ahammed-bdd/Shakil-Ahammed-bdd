@@ -38,7 +38,7 @@
 </details>
 
 <details open>
- <summary align="center"><h2>Tools</h2></summary>
+ <summary align="center"><h2><img alt="GIF" src="image/laptop.gif" width="30px" align="center"/>Tools</h2></summary>
  <div align="center">
      <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="30" height="30"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a> 
@@ -53,16 +53,25 @@
 <details open>
 <summary align="center"><h2><img alt="GIF" src="image/handshake2.gif" width="30px" align="center"/>Connect with me </h2></summary>
 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/ahammed-shakil-10268a380?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF%2BrRMqvUQ8ymMbfmphvPHg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahammed-shakil-10268a380" height="30" width="30" /></a>
- <a href="https://fb.com/@md.shakil.ahammed.447079" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@md.shakil.ahammed.447079" height="30" width="30"  /></a>
+ <a href="https://www.linkedin.com/in/ahammed-shakil-10268a380?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BF%2BrRMqvUQ8ymMbfmphvPHg%3D%3D" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahammed-shakil-10268a380" height="30" width="30" /></a> &ensp;
+ <a href="https://fb.com/@md.shakil.ahammed.447079" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="@md.shakil.ahammed.447079" height="30" width="30"  /></a> &ensp;
 <a href="https://instagram.com/shajadul_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shajadul_shakil" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/Shajadul_Shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Shajadul_Shakil" height="30" width="30" /></a>
-<a href="https://www.codechef.com/users/ahammed_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/idatctP4Z0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768312591255" alt="leetcode_profile" height="30" width="40" /></a>
- <a href="https://www.hackerrank.com/profile/mdshakilahammed1" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/id7deEe4pT/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762878128557" alt="HackerRak_profile" height="30" width="40" /></a>
 </div>
 <br/>
 </details>
+
+
+<details open>
+ <summary align ="center"><h2>Problem solve web.</h2></summary>
+ <div align="center">
+ <a href="https://codeforces.com/profile/Shajadul_Shakil" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"    alt="https://codeforces.com/profile/Shajadul_Shakil" height="30" width="30" /></a> &ensp;
+<a href="https://www.codechef.com/users/ahammed_shakil" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg" alt="CodeChef profile" height="30" width="40" /></a> &ensp;
+<a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/idatctP4Z0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768312591255" alt="leetcode_profile" height="30" width="40" /></a> &ensp;
+<a href="https://www.hackerrank.com/profile/mdshakilahammed1" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/id7deEe4pT/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762878128557" alt="HackerRak_profile" height="30" width="40" /></a>
+ </div>
+ <br/>
+</details>
+
 
 <details open>
 <summary align="center"><h2><image alt="GIF" src="image/statistics.gif" width="35px" align="center"/>Profile Statistics </h2></summary>
