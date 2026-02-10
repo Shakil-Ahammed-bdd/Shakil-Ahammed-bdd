@@ -70,8 +70,19 @@
 <a href="https://leetcode.com/u/Md_Shakil_Ahammed" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/idatctP4Z0/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1768312591255" alt="leetcode_profile" height="30" width="40" /></a> &ensp;
 <a href="https://www.hackerrank.com/profile/mdshakilahammed1" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.brandfetch.io/id7deEe4pT/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1762878128557" alt="HackerRak_profile" height="30" width="40" /></a>
  </div>
- <br/>
+ <!-- <br/> -->
 </details>
+
+<!-- <summary align="center"><h2><img alt="GIF" src="./images/laptop.gif" width="25px"> Featured Projects </h2></summary> -->
+  <div align="center">
+      <br>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Personal-Portfolio" target="_blank"><img src="https://img.shields.io/badge/-Personal--Portfolio-blueviolet?logo=github&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Django-Codes" target="_blank"><img src="https://img.shields.io/badge/-Django--Codes-orange?logo=django&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Codeforces_Contest" target="_blank"><img src="https://img.shields.io/badge/-Codeforces_Contest-333399?logo=Codeforces&logoColor=white&style=for-the-badge"></a>
+      <a href="https://github.com/Shakil-Ahammed-bdd/Python" target="_blank"><img src="https://img.shields.io/badge/-Python-009688?logo=python&logoColor=white&style=for-the-badge"></a>
+      <!-- <br><br> -->
+  </div>
+
 
 
 <details open>
